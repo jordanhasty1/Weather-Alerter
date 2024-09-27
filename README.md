@@ -1,0 +1,1 @@
+This is a simple(ish) program.  It polls the NWS API every three second, looks for severe thunderstorm and tornado watches/warnings.  Adds them to a list.  Steps it's way through that list playing a distict sound each time.  
